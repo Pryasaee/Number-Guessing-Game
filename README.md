@@ -9,7 +9,7 @@
 * The program generates a random number between a predefined range (e.g., 1 to 100).
 * The user has limited attempts (K tries) to guess the number.
 ## At each guess, the program provides a hint:
-1.If the guessed number is higher, it tells the user to guess lower.
-2.If the guessed number is lower, it tells the user to guess higher.
-3.If the user guesses correctly, they win.
-4.If all attempts are exhausted, the game reveals the correct number.
+* If the guessed number is higher, it tells the user to guess lower.
+* If the guessed number is lower, it tells the user to guess higher.
+* If the user guesses correctly, they win.
+* If all attempts are exhausted, the game reveals the correct number.
